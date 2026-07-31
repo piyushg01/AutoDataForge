@@ -1,0 +1,11 @@
+app:
+  name: Autonomous Data Cleaning, Feature Engineering and Blockchain-based Data Integrity System
+  api_prefix: /api
+
+output:
+  cleaned_data_dir: outputs/cleaned_data
+  reports_dir: outputs/reports
+  pipelines_dir: outputs/pipelines
+
+audit:
+  log_file: outputs/reports/audit_log.jsonl

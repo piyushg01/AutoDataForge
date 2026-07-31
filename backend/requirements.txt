@@ -1,0 +1,11 @@
+fastapi==0.115.8
+uvicorn[standard]==0.34.0
+pandas==2.2.3
+numpy==2.2.4
+scikit-learn==1.6.1
+scipy==1.15.2
+openpyxl==3.1.5
+python-multipart==0.0.20
+pyyaml==6.0.2
+joblib==1.4.2
+pytest==8.3.5
